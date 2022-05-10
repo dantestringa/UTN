@@ -1,0 +1,23 @@
+html {
+    background-color: #F3F0E2
+}
+
+header {
+    font-size: 20px;
+}
+
+.iframeFlex {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly; }
+
+.fondoNegro {
+    background-image: linear-gradient(#1A1A1B, #1A1A1B);
+    color: white;
+    text-decoration: none; 
+}
+
+.link a {
+    text-decoration: none;
+    color: white;
+}
