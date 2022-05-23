@@ -14,10 +14,17 @@ header {
 .fondoNegro {
     background-image: linear-gradient(#1A1A1B, #1A1A1B);
     color: white;
-    text-decoration: none; 
 }
 
 .link a {
     text-decoration: none;
     color: white;
+}
+
+.barraNav {
+    margin-right: 70px;
+}
+
+.marginFooter {
+    margin-left: 40px;
 }
